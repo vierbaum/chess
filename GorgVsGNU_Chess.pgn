@@ -1,0 +1,18 @@
+[Event "Computer Chess Game"]
+[Site "parch"]
+[Date "2022.03.28"]
+[Round "-"]
+[White "nld"]
+[Black "GNU Chess"]
+[Result "0-1"]
+[TimeControl "40/300"]
+[Annotator "1... +0.11"]
+
+1. g3 Nc6 {+0.11/12 2.4} 2. Bh3 d5 {+0.36/12 4} 3. b3 Bxh3 {+0.73/12 4} 4.
+Nxh3 e5 {+0.83/15} 5. Bb2 Nf6 {+0.86/14} 6. Ng5 Bc5 {+0.91/12 11} 7. h4 h6
+{+1.37/13 7} 8. Nf3 e4 {+1.39/14} 9. Nh2 d4 {+1.35/13} 10. b4 Bxb4
+{+2.05/12 5} 11. Na3 Qd6 {+2.43/12 9} 12. g4 Bxa3 {+5.15/11 2.3} 13. Rb1
+O-O-O {+5.74/12 7} 14. Rg1 Qxh2 {+13.48/13 11} 15. Rg3 Qh1+ {+99.97/43 2.8}
+16. Rg1 Qxg1# {+99.99/56}
+{Xboard adjudication: Checkmate} 0-1
+
