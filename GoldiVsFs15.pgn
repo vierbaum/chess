@@ -1,0 +1,26 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.04.26"]
+[Round "?"]
+[White "Human"]
+[Black "Stockfish15"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:08:07"]
+[GameEndTime "2022-04-26T14:29:19.323 CEST"]
+[GameStartTime "2022-04-26T14:21:11.498 CEST"]
+[Opening "Benko's Opening"]
+[PlyCount "40"]
+[TimeControl "40/300"]
+
+1. g3 d5 {-0.06/32 11s} 2. d4 {16s} c5 {0.00/29 13s} 3. Nf3 {14s}
+cxd4 {-0.04/28 11s} 4. Nxd4 {11s} e5 {+0.62/24 3.6s} 5. Nb3 {11s}
+Nf6 {+0.49/30 21s} 6. e3 {8.5s} Nc6 {+1.90/23 3.7s} 7. Bg2 {12s}
+Bg4 {+2.25/24 6.1s} 8. Bf3 {17s} Be6 {+2.51/24 11s} 9. O-O {10s}
+Be7 {+2.35/25 17s} 10. Nc3 {12s} h5 {+2.65/23 5.5s} 11. Bd2 {9.4s}
+Qd7 {+2.96/22 6.5s} 12. Qe2 {9.1s} e4 {+3.53/25 17s} 13. Bg2 {6.5s}
+h4 {+3.63/24 6.5s} 14. gxh4 {28s} Rxh4 {+3.84/21 6.5s} 15. Rad1 {13s}
+Rh6 {+5.93/23 9.9s} 16. Nd4 {17s} Bd6 {+6.07/21 8.5s} 17. Nxc6 {8.8s}
+Bxh2+ {+11.37/19 7.8s} 18. Kh1 {22s} Bh3 {+11.74/23 25s} 19. Bxh3 {5.1s}
+Qxh3 {+M7/245 2.3s} 20. Qb5 {30s} Qf3# {+M1/245 0.010s, Black mates} 0-1
+
