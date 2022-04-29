@@ -1,0 +1,21 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.04.28"]
+[Round "?"]
+[White "Human"]
+[Black "lc0"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:04:46"]
+[GameEndTime "2022-04-28T10:51:27.887 CEST"]
+[GameStartTime "2022-04-28T10:46:41.757 CEST"]
+[Opening "Benko's Opening"]
+[PlyCount "22"]
+[TimeControl "40/300"]
+
+1. g3 d5 {+0.08/3 9.4s} 2. Nf3 {3.9s} c5 {+0.07/3 7.3s} 3. Nc3 {13s}
+Nf6 {+0.10/3 7.5s} 4. b3 {19s} Nc6 {+0.30/2 7.5s} 5. Ba3 {6.6s}
+e5 {+0.86/3 7.2s} 6. Bg2 {15s} e4 {+0.78/4 7.0s} 7. Ng5 {10s} h6 {+0.81/5 7.8s}
+8. Nh3 {23s} d4 {+1.24/4 7.4s} 9. Nb5 {16s} a6 {+6.39/4 7.4s} 10. Nxd4 {16s}
+cxd4 {+7.83/4 7.8s} 11. Be7 {4.0s} Qxe7 {+19.25/2 7.5s, White resigns} 0-1
+

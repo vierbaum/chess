@@ -1,0 +1,46 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.04.28"]
+[Round "?"]
+[White "Human"]
+[Black "Stockfish15"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:02:11"]
+[GameEndTime "2022-04-28T10:28:52.100 CEST"]
+[GameStartTime "2022-04-28T10:26:40.757 CEST"]
+[Opening "Benko's Opening"]
+[PlyCount "18"]
+[TimeControl "40/300"]
+
+1. g3 d5 {-0.09/29 11s} 2. b3 {3.4s} e5 {+0.61/24 4.4s} 3. Bh3 {14s}
+Bxh3 {+2.24/25 6.6s} 4. Nxh3 {4.3s} Qd7 {+2.35/25 6.2s} 5. O-O {5.0s}
+Qxh3 {+8.86/26 7.8s} 6. Re1 {10.0s} Nf6 {+9.57/23 8.0s} 7. Nc3 {11s}
+Ng4 {+M5/245 0.24s} 8. f3 {4.8s} Qxh2+ {+M3/245 0.019s} 9. Kf1 {7.8s}
+Qh1# {+M1/245 0.013s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.04.28"]
+[Round "?"]
+[White "Human"]
+[Black "Stockfish15"]
+[Result "0-1"]
+[ECO "A46"]
+[GameDuration "00:06:32"]
+[GameEndTime "2022-04-28T10:35:43.913 CEST"]
+[GameStartTime "2022-04-28T10:29:10.938 CEST"]
+[Opening "Queen's pawn game"]
+[PlyCount "34"]
+[TimeControl "40/300"]
+
+1. d4 Nf6 {-0.24/32 46s} 2. Nf3 {3.5s} d5 {-0.20/27 3.1s} 3. g3 {18s}
+c5 {+0.01/27 13s} 4. dxc5 {6.6s} e6 {+0.17/25 3.7s} 5. Bg2 {4.0s}
+Bxc5 {+0.12/25 4.8s} 6. O-O {9.7s} Nc6 {+0.26/25 5.5s} 7. Nc3 {6.1s}
+O-O {+0.62/22 5.8s} 8. Bg5 {30s} h6 {+1.10/25 4.7s} 9. Bxf6 {5.1s}
+Qxf6 {+1.05/28 5.2s} 10. h4 {14s} Rd8 {+1.75/24 5.3s} 11. Na4 {13s}
+Bf8 {+2.66/25 8.0s} 12. Nc5 {8.9s} Bxc5 {+8.62/23 7.5s} 13. g4 {22s}
+e5 {+10.75/21 7.9s} 14. g5 {2.1s} Qe7 {+10.87/24 10s} 15. Qc1 {21s}
+e4 {+10.86/22 7.7s} 16. Nh2 {14s} Nd4 {+11.07/24 9.8s} 17. Rd1 {5.2s}
+Nxe2+ {+17.55/20 7.8s, White resigns} 0-1
+
