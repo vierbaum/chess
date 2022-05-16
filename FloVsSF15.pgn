@@ -1,0 +1,25 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.05.02"]
+[Round "?"]
+[White "Human"]
+[Black "Stockfish15"]
+[Result "0-1"]
+[ECO "C20"]
+[GameDuration "00:07:40"]
+[GameEndTime "2022-05-02T08:24:27.720 CEST"]
+[GameStartTime "2022-05-02T08:16:47.483 CEST"]
+[Opening "King's pawn game"]
+[PlyCount "30"]
+[Termination "time forfeit"]
+[TimeControl "40/300"]
+
+1. e4 e5 {-0.25/29 13s} 2. Be2 {21s} Nf6 {+0.27/29 12s} 3. Nf3 {5.8s}
+Nc6 {+0.35/26 3.3s} 4. O-O {6.4s} Nxe4 {+0.69/28 5.9s} 5. d3 {48s}
+Nf6 {+1.04/28 13s} 6. Nc3 {40s} Be7 {+1.81/24 5.6s} 7. Ne4 {37s}
+d5 {+1.95/30 13s} 8. Nxf6+ {8.7s} Bxf6 {+1.87/30 8.3s} 9. c4 {23s}
+O-O {+2.57/24 5.4s} 10. cxd5 {5.3s} Qxd5 {+2.94/25 5.9s} 11. d4 {36s}
+e4 {+5.30/22 6.2s} 12. Bc4 {20s} Qxc4 {+10.03/24 7.3s} 13. Nd2 {13s}
+Qxd4 {+10.43/23 8.5s} 14. Nxe4 {5.5s} Qxe4 {+13.07/20 6.3s} 15. a4 {24s}
+Be6 {+13.29/25 16s, White loses on time} 0-1
+

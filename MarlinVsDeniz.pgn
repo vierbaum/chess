@@ -1,0 +1,65 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.05.16"]
+[Round "?"]
+[White "Marlin"]
+[Black "Deniz"]
+[Result "0-1"]
+[ECO "B00"]
+[GameDuration "00:01:28"]
+[GameEndTime "2022-05-16T20:55:09.019 CEST"]
+[GameStartTime "2022-05-16T20:53:40.864 CEST"]
+[Opening "KP"]
+[PlyCount "86"]
+[TimeControl "40/300"]
+[Variation "Nimzovich defense"]
+
+1. e4 {book} Nc6 {book} 2. c3 {book} e5 {book} 3. Na3 {book} d5 {book}
+4. f3 {book} d4 {book} 5. cxd4 {book} Nxd4 {book} 6. Ne2 {book} Bc5 {book}
+7. b4 {book} Bb6 {book} 8. Nc4 {book} Nxe2 {book} 9. Bxe2 {book} Bd4 {book}
+10. Qa4+ {book} Bd7 {book} 11. Qc2 {book} Qg5 {book} 12. Bb2 {book} Nf6 {book}
+13. Bxd4 {book} exd4 {book} 14. O-O-O {book} O-O {book} 15. Rdf1 {book}
+Bb5 {book} 16. h4 {book} Qg3 {book} 17. a4 {book} Bc6 {book} 18. Qd3 {book}
+Qxg2 {book} 19. Rfg1 {book} Qf2 {book} 20. Bf1 {book} Qe1+ {book} 21. Kc2 {book}
+Qa1 {book} 22. Be2 {book} Bxa4+ {book} 23. Qb3 {book} Qa2+ {book} 24. Nb2 {book}
+Qxb3+ {book} 25. Kb1 {book} Qc2+ {book} 26. Ka2 {book} Qxd2 {book}
+27. Bc4 {book} Qxb4 {book} 28. Nxa4 {book} Qxa4+ {book} 29. Kb1 {book}
+Qxc4 {book} 30. Rc1 {book} Qd3+ {book} 31. Kb2 {book} Qxf3 {book}
+32. Rhf1 {book} Qxe4 {book} 33. Rfe1 {book} Qxh4 {book} 34. Kb3 {book}
+Qh3+ {book} 35. Kc4 {book} Rfe8 {book} 36. Red1 {book} Rad8 {book} 37. Rg1
+Qe3 {3.3s} 38. Kb4 {12s} d3 {8.0s} 39. Ka4 {5.4s} d2 {3.5s} 40. Rb1 {7.7s}
+Qe2 {6.8s} 41. Rb2 {7.3s} Qe3 {5.1s} 42. Rb3 {5.7s} Rd4+ {4.3s} 43. Kb5 {4.5s}
+Qe5# {6.7s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.05.16"]
+[Round "?"]
+[White "Human"]
+[Black "Human"]
+[Result "0-1"]
+[ECO "B00"]
+[GameDuration "00:01:28"]
+[GameEndTime "2022-05-16T20:55:09.019 CEST"]
+[GameStartTime "2022-05-16T20:53:40.864 CEST"]
+[Opening "KP"]
+[PlyCount "86"]
+[TimeControl "40/300"]
+[Variation "Nimzovich defense"]
+
+1. e4 {book} Nc6 {book} 2. c3 {book} e5 {book} 3. Na3 {book} d5 {book}
+4. f3 {book} d4 {book} 5. cxd4 {book} Nxd4 {book} 6. Ne2 {book} Bc5 {book}
+7. b4 {book} Bb6 {book} 8. Nc4 {book} Nxe2 {book} 9. Bxe2 {book} Bd4 {book}
+10. Qa4+ {book} Bd7 {book} 11. Qc2 {book} Qg5 {book} 12. Bb2 {book} Nf6 {book}
+13. Bxd4 {book} exd4 {book} 14. O-O-O {book} O-O {book} 15. Rdf1 {book}
+Bb5 {book} 16. h4 {book} Qg3 {book} 17. a4 {book} Bc6 {book} 18. Qd3 {book}
+Qxg2 {book} 19. Rfg1 {book} Qf2 {book} 20. Bf1 {book} Qe1+ {book} 21. Kc2 {book}
+Qa1 {book} 22. Be2 {book} Bxa4+ {book} 23. Qb3 {book} Qa2+ {book} 24. Nb2 {book}
+Qxb3+ {book} 25. Kb1 {book} Qc2+ {book} 26. Ka2 {book} Qxd2 {book}
+27. Bc4 {book} Qxb4 {book} 28. Nxa4 {book} Qxa4+ {book} 29. Kb1 {book}
+Qxc4 {book} 30. Rc1 {book} Qd3+ {book} 31. Kb2 {book} Qxf3 {book}
+32. Rhf1 {book} Qxe4 {book} 33. Rfe1 {book} Qxh4 {book} 34. Kb3 {book}
+Qh3+ {book} 35. Kc4 {book} Rfe8 {book} 36. Red1 {book} Rad8 {book} 37. Rg1
+Qe3 {3.3s} 38. Kb4 {12s} d3 {8.0s} 39. Ka4 {5.4s} d2 {3.5s} 40. Rb1 {7.7s}
+Qe2 {6.8s} 41. Rb2 {7.3s} Qe3 {5.1s} 42. Rb3 {5.7s} Rd4+ {4.3s} 43. Kb5 {4.5s}
+Qe5# {6.7s, Black mates} 0-1

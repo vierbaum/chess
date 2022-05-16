@@ -1,0 +1,23 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.05.13"]
+[Round "?"]
+[White "Human"]
+[Black "Stockfish15"]
+[Result "0-1"]
+[ECO "A46"]
+[GameDuration "00:02:46"]
+[GameEndTime "2022-05-13T13:36:42.419 CEST"]
+[GameStartTime "2022-05-13T13:33:55.944 CEST"]
+[Opening "Queen's pawn game"]
+[PlyCount "20"]
+[Termination "adjudication"]
+[TimeControl "40/300"]
+
+1. d4 Nf6 {-0.18/30 11s} 2. Nf3 {6.7s} d5 {-0.23/25 6.5s} 3. Nc3 {2.9s}
+c5 {+0.30/28 12s} 4. dxc5 {5.0s} Nc6 {+0.29/30 5.7s} 5. Bg5 {4.3s}
+d4 {+0.81/26 5.3s} 6. Bxf6 {4.9s} exf6 {+1.57/27 6.5s} 7. Nxd4 {6.0s}
+Qxd4 {+5.47/26 6.2s} 8. Qxd4 {3.4s} Nxd4 {+5.74/24 7.1s} 9. Nd5 {1.4s}
+Nxc2+ {+8.05/27 7.0s} 10. Kd1 {17s}
+Nxa1 {+8.77/23 6.9s, Black wins by adjudication: user decision} 0-1
+

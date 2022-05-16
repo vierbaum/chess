@@ -1,0 +1,25 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.05.02"]
+[Round "?"]
+[White "Human"]
+[Black "Human"]
+[Result "0-1"]
+[ECO "D01"]
+[GameDuration "00:03:29"]
+[GameEndTime "2022-05-02T17:22:44.067 CEST"]
+[GameStartTime "2022-05-02T17:19:14.984 CEST"]
+[Opening "Richter-Veresov attack"]
+[PlyCount "50"]
+[TimeControl "inf"]
+
+1. d4 d5 {3.4s} 2. Nc3 {3.9s} Nf6 {3.8s} 3. Bg5 {3.8s} e6 {3.4s} 4. e4 {4.2s}
+h6 {3.5s} 5. e5 {6.1s} hxg5 {3.1s} 6. exf6 {3.9s} gxf6 {1.2s} 7. Qg4 {4.1s}
+f5 {3.5s} 8. Qf3 {3.0s} g4 {3.6s} 9. Qg3 {3.5s} Bd6 {4.2s} 10. O-O-O {4.0s}
+Bxg3 {3.4s} 11. fxg3 {3.6s} Nc6 {6.2s} 12. Bb5 {4.8s} a6 {4.7s} 13. Bxc6+ {3.8s}
+bxc6 {3.6s} 14. Nge2 {4.0s} a5 {4.1s} 15. Nf4 {3.8s} a4 {3.1s} 16. b3 {3.2s}
+a3 {3.0s} 17. Na4 {4.0s} O-O {4.9s} 18. Nc5 {3.5s} Qd6 {4.7s} 19. h3 {5.6s}
+e5 {4.5s} 20. Nh5 {4.0s} exd4 {2.7s} 21. Rxd4 {4.6s} Qxc5 {4.8s} 22. Rf4 {4.6s}
+d4 {7.7s} 23. Rd1 {4.1s} Rd8 {3.4s} 24. c3 {3.7s} Qxc3+ {4.1s} 25. Kb1 {2.2s}
+Qb2# {4.3s, Black mates} 0-1
+
